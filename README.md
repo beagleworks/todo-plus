@@ -7,6 +7,9 @@
 Todo Plusは、React + TypeScriptで構築された高機能なタスク管理アプリケーションです。直感的なドラッグアンドドロップ機能、カテゴリー管理、優先度設定、そしてSNS共有機能を備えています。
 このアプリケーションはQoderの補助で作られています。
 
+## デモサイト
+https://beagleworks.github.io/todo-plus/demo/
+
 ## ✨ 主な機能
 
 ### 📝 タスク管理
